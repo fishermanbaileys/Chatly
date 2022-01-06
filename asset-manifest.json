@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Chatly/static/css/main.07178930.css",
-    "main.js": "/Chatly/static/js/main.5894d86e.js",
+    "main.js": "/Chatly/static/js/main.a0505e22.js",
     "static/js/787.91f42c8c.chunk.js": "/Chatly/static/js/787.91f42c8c.chunk.js",
     "static/media/Untitled-2-01.jpg": "/Chatly/static/media/Untitled-2-01.589c60503167f40ace09.jpg",
     "static/media/sendicon.svg": "/Chatly/static/media/sendicon.4836fd4b1615d461ddfb02e7c0e8c9f3.svg",
     "static/media/logout.png": "/Chatly/static/media/logout.8db94a72ed191e94017d.png",
     "index.html": "/Chatly/index.html",
     "main.07178930.css.map": "/Chatly/static/css/main.07178930.css.map",
-    "main.5894d86e.js.map": "/Chatly/static/js/main.5894d86e.js.map",
+    "main.a0505e22.js.map": "/Chatly/static/js/main.a0505e22.js.map",
     "787.91f42c8c.chunk.js.map": "/Chatly/static/js/787.91f42c8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07178930.css",
-    "static/js/main.5894d86e.js"
+    "static/js/main.a0505e22.js"
   ]
 }
