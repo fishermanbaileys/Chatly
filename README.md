@@ -52,7 +52,7 @@ After completing the core elements of the chatroom we built and implemented the 
 
 All of this is encapsulated into a clean, consistent styling with intentional buttons and an intuitive layout.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
