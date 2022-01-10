@@ -6,11 +6,6 @@
 
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 
 
 <!-- PROJECT LOGO -->
@@ -29,7 +24,7 @@
     ·
     <a href="https://github.com/fishermanbaileys/Chatly/issues">Report Bug</a>
     ·
-    <a https://github.com/fishermanbaileys/Chatly/issues">Request Feature</a>
+    <a href="https://github.com/fishermanbaileys/Chatly/issues">Request Feature</a>
   </p>
 </div>
 
@@ -52,9 +47,7 @@ After completing the core elements of the chatroom we built and implemented the 
 
 All of this is encapsulated into a clean, consistent styling with intentional buttons and an intuitive layout.
 
-
-
-
+                                                         
 
 ### Built With
 Here are the tools we used for our project:
@@ -62,17 +55,19 @@ Here are the tools we used for our project:
 * [React.js](https://reactjs.org/)
 * [Node.js](https://nodejs.org)
 * [Firebase](https://firebase.google.com/)
+                                                         
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+                                                         
+<!-- LICENSE -->
+## License
 
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+                                                         
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/fishermanbaileys/Chatly/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/fishermanbaileys/Chatly/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/fishermanbaileys/Chatly/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/fishermanbaileys/Chatly/issues
